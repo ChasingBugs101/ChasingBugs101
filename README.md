@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChasingBugs101
 - 👀 I’m interested in Android Developemt with Kotlin and Firebase and Flutter Development
-- 🌱 I’m currently learning Kotlin and Flutter
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
